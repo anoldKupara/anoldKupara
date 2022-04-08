@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anoldKupara
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Ruby on Rails!
+- 🌱 I’m currently learning C# ASP.net!
 - 💞️ I’m looking to collaborate on any beginner's project
 - 📫 How to reach me. You can reach me on my email kuparaanold20@gmail.com
 
