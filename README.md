@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-l have been developing softwares for close to a year now. l am a .Net Developer
+l have been developing softwares for close to a year now. l am a web developer. l am a  Ruby on Rails and .Net Developer
 
 * 🌍  I'm based in Harare
 * ✉️  You can contact me at [kuparaanold20@gmail.com](mailto:kuparaanold20@gmail.com)
