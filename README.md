@@ -9,7 +9,6 @@ l have been developing softwares for close to a year now. l am a web developer. 
 * 🌍  I'm based in Harare
 * ✉️  You can contact me at [kuparaanold20@gmail.com](mailto:kuparaanold20@gmail.com)
 
-<a href="https://www.twitter.com/ExBoyfriend001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ExBoyfriend001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/anoldKupara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anoldKupara?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
